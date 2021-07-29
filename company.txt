@@ -1,0 +1,5 @@
+infosys,1997,infosys@gmail.com,983726732,ji chang wook,1,infosys,infosys@123,infosys@123
+Accenture,1979,accent@gmail.com,1800154154,Pooja Babbar,accenture,Accenture,Accenture@123,Accenture@123
+Adobe,1996,adobe@yahoo.com,866443789845,Neelam Rao,adobe,adobe,adobe@123,adobe@123
+Wipro,1975,wipro@yahoo.com,4783638756487,Rahul Venkatram,wipro,wipro,wipro@123,wipro@123
+Google,1960,google@yahoo.com,543566756452,Lazlo Bock,google,google,google@123,google@123

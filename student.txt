@@ -1,0 +1,5 @@
+Deepak,male,dkmaghar@gmail.com,8210483955,patna,patna city patna,03/06/1998,21,kbs high school patna,2013,bseb,72,kbs high school patna,2105,bseb,70,skeching,DCA,deepak,deepak@123,deepak@123
+Sara,female,sara@gmail.com,7087543890,mumbai,thane mumbai,10/05/1998,22,francis,2012,cbse,94,Martins,2014,cbse,90,no,bca,swati,swati@123,swati@123
+bob,male,bob@yahoo.com,86453785639,goa,jhuna,20/08/1997,23,abc,2011,cbse,98,abcs,2013,cbse,95,no,bca,bob,bob@123
+kirti,male,abc@google.com,8567894385,Ahmedabad,Gujarat,15/08/1996,24,Dav,2012,cbse,95,pcs,2014,cbse,97,games,sports player,kirti,kirti@123,kirti@123
+Ellen,female,ellen@gmail.com,7485268658,vatican,Vatican,5/2/1999,21,pleasent valley,2014,abcd,99,pleasant valley,2016,abcd,89,no,no,ellen,ellen@123,ellen@123

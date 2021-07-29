@@ -1,0 +1,6 @@
+1,software developer,20000,MTech/MCA,,234234235
+ 012,Software Testing,50000,MTech/MCA,no,abc@gmail.com
+019,Data Scientist,150000,Mtech/MCA/Diploma in data science,no,dgyyyt@yrhm.com
+011,Software Developer,50000,MTech/MCA,no,gdyt@hjgvj.com
+034,Software Analyst,80000,MTech/MCA,no,gdygh@hvjh.com
+23,Network Engineer,100000,MTech/MCA,No,strd@gc.com
